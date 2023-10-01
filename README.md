@@ -6,3 +6,5 @@ This article will examine two commonly used reference-based metrics, BERTScore a
 
 Click for more 
 
+![image](https://github.com/haticeozbolat01/BERTScore-VS-ROUGE/assets/74445249/c23439a6-7e92-441e-a86e-418e26e3f033)
+
